@@ -100,6 +100,9 @@ padding:0 0 4.5rem;
 .pricing-row{
 margin-top: 5%;
 }
+.card-box{
+  margin-bottom: 24px;
+}
 .card{
   width:auto;
   height:25rem;
