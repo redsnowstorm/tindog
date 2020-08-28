@@ -97,6 +97,9 @@ padding:0 0 4.5rem;
   margin: 20px 20px 50px;
 }
 /* Pricing */
+.pricing-head{
+  color:#343a3f;
+}
 .pricing-row{
 margin-top: 5%;
 }
@@ -110,10 +113,14 @@ margin-top: 5%;
 }
 .card-header{
   text-align: center;
+  color:#343a3f;
 }
 .card-body{
   padding:1.5rem;
   text-align: center;
+}
+.card-price{
+color:#343a3f;  
 }
 /* CTA */
 .cta-head{
@@ -126,6 +133,7 @@ margin-top: 5%;
 /* Footer */
 .footer-icon{
   margin: 20px 10px;
+  color:#343a3f;
 }
 .footer-icon:hover{
   color:#f0356b;
